@@ -29,8 +29,8 @@ namespace App01Console
             string tal = Console.ReadLine();
             Console.WriteLine(tal);
 
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("Blå");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Yellow");
             Console.ForegroundColor = ConsoleColor.Gray;
             
         }
