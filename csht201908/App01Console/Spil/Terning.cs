@@ -1,0 +1,4 @@
+﻿namespace Cronberg
+{
+    class Terning { }
+}
